@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files (large files shouldn't go on GitHub)
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/*.csv
+
+# Environment
+eda_env/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
