@@ -1,9 +1,5 @@
 # 🏨 Hotel Booking Demand - Exploratory Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-1.5+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)
 
 ## 📋 Project Overview
 
@@ -30,16 +26,6 @@ pricing, staffing, and overbooking strategies.
 
 ---
 
-## 📊 Key Visualizations
-
-### Executive Dashboard
-![Dashboard](reports/figures/08_executive_dashboard.png)
-
-### Cancellation Analysis
-![Cancellations](reports/figures/02_cancellation_by_hotel.png)
-
-### Seasonal Trends
-![Seasonality](reports/figures/03_monthly_seasonality.png)
 
 ---
 
@@ -59,4 +45,3 @@ pricing, staffing, and overbooking strategies.
 
 ---
 
-## 🗂️ Repository Structure
